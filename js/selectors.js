@@ -1,5 +1,5 @@
 // declare your functions here...
 function paragraphSelector() {
-  var pList = $('p')
-  return pList
+  var pTags = $('p')
+  return pTags
 }
